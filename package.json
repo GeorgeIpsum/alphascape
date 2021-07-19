@@ -1,0 +1,16 @@
+{
+  "name": "alphascape",
+  "version": "0.1.0",
+  "description": "i make this for static reasons",
+  "main": "dist/index.js",
+  "repository": "git@github.com:GeorgeIpsum/alphaverse.git",
+  "author": "Ibrahim <georgeipsum@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.3.3",
+    "typescript": "^4.3.5"
+  }
+}
